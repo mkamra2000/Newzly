@@ -1,0 +1,10 @@
+<resources>
+    <string name="newzly">Newzly</string>
+    <string name="category">Category</string>
+    <string name="heading">Heading</string>
+    <string name="news">News</string>
+    <string name="sub_heading">Sub Heading</string>
+    <string name="app_name">Newzly</string>
+    <string name="news_image">News Image</string>
+    <string name="read_more">Read More</string>
+</resources>
